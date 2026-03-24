@@ -1,3 +1,9 @@
 [submodule "GrupoEstudos"]
 	path = GrupoEstudos
 	url = https://github.com/Wilbsomgs/GrupoEstudos.git
+[submodule "Ebac_Projects"]
+	path = Ebac_Projects
+	url = https://github.com/Wilbsomgs/Ebac_Projects.git
+[submodule "maratona-Java-Yt"]
+	path = maratona-Java-Yt
+	url = https://github.com/Wilbsomgs/maratona-Java-Yt.git
