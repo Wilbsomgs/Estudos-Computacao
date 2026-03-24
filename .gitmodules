@@ -1,0 +1,3 @@
+[submodule "GrupoEstudos"]
+	path = GrupoEstudos
+	url = https://github.com/Wilbsomgs/GrupoEstudos.git
