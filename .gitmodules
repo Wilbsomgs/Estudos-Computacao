@@ -7,3 +7,6 @@
 [submodule "maratona-Java-Yt"]
 	path = maratona-Java-Yt
 	url = https://github.com/Wilbsomgs/maratona-Java-Yt.git
+[submodule "Descomplica_Projects"]
+	path = Descomplica_Projects
+	url = https://github.com/Wilbsomgs/Descomplica_Projects.git
